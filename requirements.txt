@@ -1,0 +1,2 @@
+# PDF Indexer - Dependencies
+pymupdf>=1.23.0

@@ -1,0 +1,34 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+dist/
+build/
+*.egg-info/
+*.egg
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===== Project specific =====
+*.exe
+*.pdf
+*.mp4
+screenshots/
+temp/
+debug_toc.txt
+*.log
+*.tmp
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+desktop.ini
